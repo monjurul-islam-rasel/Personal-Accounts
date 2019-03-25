@@ -6,12 +6,11 @@
   <header id="header" class="header">
     <div class="container">
       <div class="branding">
-        <h1 class="logo"> <a href="index.html"> <span aria-hidden="true" class="icon_documents_alt icon"></span> <span class="text-highlight">Personal </span><span class="text-bold">Accounts</span> <br />
-          <small>Income Expense Management System - Documentation</small> </a> </h1>
+        <h1 class="logo">  <span aria-hidden="true" class="icon_documents_alt icon"></span> <span class="text-highlight">Personal </span><span class="text-bold">Accounts</span> <br />
+          <small>Income Expense Management System - Documentation</small> </h1>
       </div>
       <!--//branding-->
       <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="#">Home</a></li>
         <li class="breadcrumb-item active">Quick Start</li>
       </ol>
     </div>
